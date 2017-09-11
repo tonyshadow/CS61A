@@ -1,3 +1,10 @@
+# MacOS
+.DS_Store
+
+# Ok
+*.ok
+.ok_history
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
